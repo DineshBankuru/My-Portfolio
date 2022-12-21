@@ -1,0 +1,295 @@
+.name{
+    padding-right: 50%;
+    font-weight: 400;
+    
+    font-weight: 900;
+    font-family:cursive;
+    color: #2ECBE9;
+    font-size: xx-large;
+    
+}
+.no{
+    padding-left: 80px;
+    text-decoration: none;
+    border-radius: 5px;
+    padding : 5px;
+    border-left: 10px;
+    border-spacing: 80px;
+    margin-right: 50px;
+    font-weight: 200;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+.no:hover
+{
+    background-color: rgb(20, 60, 148);
+    color: white;
+    font-weight: 300;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.hii
+{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.box1{
+    
+    padding: 10px;
+}
+
+#active
+{
+    color: aqua;
+    padding-bottom: 10px;
+    border-bottom: 10px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    width: fit-content ;
+}
+b{
+    padding:15px
+}
+img{
+    position: absolute;
+    margin-right: 10px;
+}
+
+.text{
+    padding-left: 140px;
+    padding-top: 180px;
+    color: aliceblue;
+}
+
+h1{
+    
+}
+.first
+{
+
+    font-family: 'Courier New', Courier, monospace;
+}
+.second
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+.din{
+    display: inline;
+    color:rgb(45, 158, 206);
+    font-weight: 2000;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+button{
+    border: 1px;
+    background-color: rgb(0, 0, 71);
+    color: white;
+    border-radius: 15px;
+    box-shadow: 0px 3px black;
+    padding: 10px 40px;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+.picindex
+{
+     float: right;
+     margin: -320px 683px 20px 50px;
+}
+
+
+
+.Abouttext{
+    padding-top: 90px;
+    color: rgb(255, 255, 255);
+    padding-left: 50px;
+}
+
+pre{
+    font-size: larger;
+    color: aquamarine;
+}
+
+.color
+{
+    color: deepskyblue;
+}
+
+td{
+    padding-left: 30px;
+}
+tr{
+    padding: 5px 0px;
+}
+.picabout
+{
+     float: right;
+     margin: -223px 421px 20px 50px;
+}
+
+img{
+    border: 1px;
+     border-radius: 20px;
+     box-shadow: 5px bisque;
+}
+
+
+
+.box2
+{
+    border: 1px solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 20px;
+    background-color: rgb(2, 11, 74);
+    
+}
+.row
+{
+    display: flex;
+    padding-bottom: 150px;
+}
+.column
+{
+    flex : 40px;
+    padding: 50px;
+    
+}
+.skill
+{
+    position: absolute;
+    margin: 217px 10px 10px 10px;
+    font-weight: 400;
+    color: aqua;
+    padding-left: 75px;
+}
+.skill2,.skill3
+{
+    position: absolute;
+    margin: 217px 10px 10px 10px;
+    font-weight: 400;
+    color: aqua;
+    padding-left: 85px;
+}
+
+.edu
+{
+    margin-left: 45%;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    padding-bottom: 30px;
+    font-size: xx-large;
+    color: aqua;
+}
+.big
+{
+    border: 1px solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 200px;
+    background-color: rgb(2, 11, 74);
+    border-radius: 20px;
+}
+
+.stanns
+{
+    display: flex;
+    flex-direction: row;
+}
+.vnittext
+{
+    position: absolute;
+    color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin : 297px 24px 21px -17px;;
+    padding: 20px;
+}
+.annstext
+{
+    position: absolute;
+    color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin : 297px 24px 21px -17px;;
+    padding: 20px;
+}
+
+label
+{
+    vertical-align: top;
+    padding: 5px 20px;
+}
+input,textarea
+{
+    padding-left: 10px;
+    display: table-cell;
+    border: 1px solid blue;
+    border-radius: 10px;
+    height: 25px;
+}
+textarea
+{
+    max-width: 200px;
+}
+.outer
+{
+    border: 5px solid royalblue;
+    border-radius: 25px;
+    margin-left: 37%;
+    margin-right: 37%;
+}
+form
+{
+    display: table;
+}
+form > p
+{
+    display: table-row;
+}
+label
+{
+    padding-left: 80px;
+     display: table-cell;
+     color: aqua;
+     size: 400%;
+}
+.submit
+{
+    margin-left: 78%;
+    text-align: center;
+    box-shadow: none;
+    border-radius: 5px  ;
+    background-color :rgb(2, 11, 74);
+    color: aliceblue;
+}
+.submit:hover
+{
+    background-color: #2ECBE9;
+    color: rgb(2, 11, 74) ;
+}
+
+.submit:active
+{
+    background-color: rgb(42, 202, 117);
+    color: white ;
+}
+
+
+
+html{
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1008%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M954.28 520.33 a105.9 105.9 0 1 0 211.8 0 a105.9 105.9 0 1 0 -211.8 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M795.5531627512638 519.9042285357576L842.4239004238624 635.9133751591302 958.4330470472349 589.0426374865316 911.5623093746364 473.03349086315905z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M369.3278501492359-100.31821462502016L335.1859758772327 47.56649008700468 483.07068058925756 81.70836435900789 517.2125548612607-66.17634035301694z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M14.28 378.85 a172.7 172.7 0 1 0 345.4 0 a172.7 172.7 0 1 0 -345.4 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M193.35025398487073 183.1980204738133L97.79839646799364 297.0722899486017 211.67266594278198 392.62414746547876 307.22452345965905 278.7498779906904z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M670.067%2c546.85C696.59%2c548.017%2c716.72%2c525.162%2c729.053%2c501.651C740.419%2c479.983%2c742.218%2c454.19%2c729.7%2c433.166C717.451%2c412.594%2c693.989%2c403.587%2c670.067%2c402.584C643.856%2c401.485%2c613.508%2c404.663%2c601.092%2c427.773C589.011%2c450.26%2c606.638%2c474.74%2c619.433%2c496.829C632.179%2c518.833%2c644.663%2c545.732%2c670.067%2c546.85' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1008'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+    background-repeat: none;;
+    background-size: 125%;
+}
+
+/*
+<div class="form-group">
+                <label for=""></label>
+                <input type="email" class="form-control" name="" id="" aria-describedby="emailHelpId" placeholder="">
+                <small id="emailHelpId" class="form-text text-muted">Help text</small>
+              </div>
+*/
+              
